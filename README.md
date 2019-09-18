@@ -1,6 +1,6 @@
 # Stock-1
-An application written in C#
-Console and Textfile output are identical 
+- An application written in C#
+- Console and Textfile output are identical 
 
 
 ## Description
