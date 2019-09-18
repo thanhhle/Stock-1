@@ -1,0 +1,2 @@
+Date    Time             Stock Name          Initial Value       Current Value
+
