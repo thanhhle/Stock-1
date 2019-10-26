@@ -41,9 +41,8 @@ namespace Problem_2
         {
             for (int i = 0; i < 50; i++)
             {
-                Thread.Sleep(500);
                 ChangeStockValue();
-                i++;
+                Thread.Sleep(500);
             }
         }
 
