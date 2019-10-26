@@ -1,4 +1,4 @@
-# Stock-1
+# StockThread1
 - An application written in C#
 - Console and Textfile output are identical 
 
